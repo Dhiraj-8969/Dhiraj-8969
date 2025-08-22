@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋, I'm Dhiraj Kumar  
 
-<!--
-**Dhiraj-8969/Dhiraj-8969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **MERN Stack Developer** | 🎓 **CSE 4th Year @ BBSBEC** | ⚡ **DSA Enthusiast** | 🚀 **Open to Internships**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Pursuing **B.Tech in Computer Science** (2022 - Present) at **Baba Banda Singh Bahadur Engineering College (BBSBEC), Punjab**  
+- 💻 Skilled in **MERN Stack, Tailwind CSS, JavaScript, Java, C, C++, Python, SQL**  
+- 🚀 Built projects like:  
+  - 🏥 **Doctor Appointment Booking System** (with Razorpay Integration)  
+  - 🏫 **BBSBEC Complaints Center Portal**  
+- ⚡ Solved **300+ DSA problems** on LeetCode, Codeforces, etc.  
+- 🌱 Currently learning **Cloud & AI integrations with MERN apps**  
+- 🤝 Open to **internships, projects, and collaboration opportunities**  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+C | C++ | Java | Python | JavaScript | SQL  
+
+**Frontend:**  
+React.js | Tailwind CSS | HTML5 | CSS3  
+
+**Backend:**  
+Node.js | Express.js  
+
+**Databases:**  
+MongoDB | MySQL  
+
+**Tools & Platforms:**  
+Git | GitHub | VS Code | Postman | Linux  
+
+---
+
+## 📊 GitHub Stats
+![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhiraj-8969&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-8969&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me
+<a href="https://www.linkedin.com/in/dhiraj-kumar-37690129a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Dhiraj-8969" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+</a>
+<a href="mailto:dhirajkumar.cse26@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+</a>
+
+---
+
+⭐️ From [Dhiraj Kumar](https://github.com/Dhiraj-8969)

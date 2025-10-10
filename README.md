@@ -35,9 +35,19 @@ Git | GitHub | VS Code | Postman
 ---
 
 ## 📊 GitHub Stats
-![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhiraj-8969&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-8969&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhiraj-8969&show_icons=true&theme=radical&hide_border=true" alt="Dhiraj's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-8969&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj-8969&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+  
 
 ---
 

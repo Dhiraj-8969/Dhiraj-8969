@@ -48,6 +48,10 @@ Git | GitHub | VS Code | Postman
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj-8969&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
   
+![Dhiraj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj-8969&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=Dhiraj-8969&label=Profile%20Views&color=ff69b4&style=flat)
+
 
 ---
 

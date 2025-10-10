@@ -36,19 +36,9 @@ Git | GitHub | VS Code | Postman
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhiraj-8969&show_icons=true&theme=radical&hide_border=true" alt="Dhiraj's GitHub stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhiraj-8969&show_icons=true&theme=radical&hide_border=true" alt="Dhiraj's GitHub stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-8969&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj-8969&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-  
-![Dhiraj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj-8969&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-8969&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 ![](https://komarev.com/ghpvc/?username=Dhiraj-8969&label=Profile%20Views&color=ff69b4&style=flat)
 

@@ -10,7 +10,7 @@
 - 🚀 Built projects like:  
   - 🏥 **Doctor Appointment Booking System** (with Razorpay Integration)  
   - 🏫 **BBSBEC Complaints Center Portal**  
-- ⚡ Solved **300+ DSA problems** on LeetCode, Codeforces, etc.  
+- ⚡ Solved **50+ DSA problems** on LeetCode, Codeforces, etc.  
 - 🌱 Currently learning **Cloud & AI integrations with MERN apps**  
 - 🤝 Open to **internships, projects, and collaboration opportunities**  
 
@@ -30,7 +30,7 @@ Node.js | Express.js
 MongoDB | MySQL  
 
 **Tools & Platforms:**  
-Git | GitHub | VS Code | Postman | Linux  
+Git | GitHub | VS Code | Postman 
 
 ---
 

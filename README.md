@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Dhiraj Kumar  
 
-💻 **MERN Stack Developer** | 🎓 **CSE 4th Year @ BBSBEC** | ⚡ **DSA Enthusiast** | 🚀 **Open to Internships**
+💻 **MERN Stack Developer** | 🎓 **Software Engineer** | ⚡ **DSA Enthusiast** | 🚀 **Open to Internships**
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Pursuing **B.Tech in Computer Science** (2022 - Present) at **Baba Banda Singh Bahadur Engineering College (BBSBEC), Punjab**  
+- 🎓 Pursuing **B.Tech in Computer Science** (2022 - 2026) at **Baba Banda Singh Bahadur Engineering College (BBSBEC), Punjab**  
 - 💻 Skilled in **MERN Stack, Tailwind CSS, JavaScript, Java, C, C++, Python, SQL**  
 - 🚀 Built projects like:  
   - 🏥 **Doctor Appointment Booking System** (with Razorpay Integration)  
